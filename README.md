@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Zachary M. Kithinji
+# 👋 Hi, I'm Zachary Kithinji
 
 Founder of [Innocraft Systems](https://github.com/innocraft-systems)  
 Creator of [Innocraft Academy](https://github.com/innocraft-academy)  
