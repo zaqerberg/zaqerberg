@@ -24,7 +24,7 @@ Mechanical engineer, educator, and tech entrepreneur building practical, AI-powe
 
 - 🌍 [Innocraft Systems](https://github.com/innocraft-systems)
 - 🎓 [Innocraft Academy](https://github.com/innocraft-academy)
-- 💼 [LinkedIn](https://www.linkedin.com/in/zachary-kithinji-50712632/))*
+- 💼 [LinkedIn](https://www.linkedin.com/in/zachary-kithinji-50712632/)
 - 📬 [Email Me](kithinjiz@innocraftsytems.co.ke)
 
 ---
